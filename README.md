@@ -1,7 +1,7 @@
 # 100-Days-of-SwiftUI
-Link to article: 
+```Link to article: 
 https://www.hackingwithswift.com/100/swiftui
-
+´´´
 # Rules
 Every day I spend one hour reading or watching SwiftUI tutorials, or writing SwiftUI code.
 Every day I post about my progress to this GitHub page.
