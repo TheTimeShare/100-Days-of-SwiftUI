@@ -1,0 +1,17 @@
+Day 0
+
+What did i do today:
+Today i had to read this article "How to become an iOS developer".
+I watched the video "How to become an iOS developer".
+I also made my GitHub Repository i will be uploading my progress to.
+
+
+What i learned:
+
+
+
+Link to article:
+https://www.hackingwithswift.com/articles/230/how-to-become-an-ios-developer
+
+Link to video:
+https://www.youtube.com/watch?v=HNXzcAwNqMc
