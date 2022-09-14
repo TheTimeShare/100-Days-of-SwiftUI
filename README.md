@@ -1,13 +1,13 @@
 # 100-Days-of-SwiftUI
-```Link to article: 
+Link to article: <br>
 https://www.hackingwithswift.com/100/swiftui
-´´´
+
 # Rules
-Every day I spend one hour reading or watching SwiftUI tutorials, or writing SwiftUI code.
+Every day I spend one hour reading or watching SwiftUI tutorials, or writing SwiftUI code.<br>
 Every day I post about my progress to this GitHub page.
 
 # Tips (mostly for myself :D)
-It’s a marathon, not a sprint. Don’t charge ahead thinking you’re “learning faster”, because there’s a high chance you’ll get lost. Take your time!
+It’s a marathon, not a sprint. Don’t charge ahead thinking you’re “learning faster”, because there’s a high chance you’ll get lost. Take your time! <br>
 
 Don’t fall prey to shiny object syndrome. The lure of spending $100 on another course is high, I know, but you don’t learn anything by buying books. 
 
