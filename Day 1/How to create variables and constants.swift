@@ -1,3 +1,5 @@
+import Cocoa
+
 var greeting = "Hello everyone!"
 
 // "var" is creating a new changeable variable.
