@@ -27,6 +27,7 @@ Download my Unwrap app from the App Store. It works on iPhone and iPad, contains
 
 I’ve tried to make sure it takes less than one hour to complete each day, but there is a little natural variation. For example, day 4 is a little shorter because it has less ground to cover, and day 13 is a little longer because it has a few complex topics inside.
 
-# Preparation (Day 0)
-This introductory day prepares you for the course, explains core concepts, and helps you avoid the most common mistakes faced by other learners.
+# The course
+Day 0 - tips and advice before you start
+Day 1 - variables, constants, strings, and numbers
 
