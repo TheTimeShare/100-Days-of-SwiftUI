@@ -29,5 +29,5 @@ I’ve tried to make sure it takes less than one hour to complete each day, but 
 
 # The course
 Day 0 - tips and advice before you start
-Day 1 - variables, constants, strings, and numbers
+Day 1 - variables, constants, strings, and numbers <br>
 
