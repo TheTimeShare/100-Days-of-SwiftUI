@@ -10,7 +10,8 @@ name = "Marry"
 let character = "Tommy"
 
 
-
+// as you can see it changed over time. We dont use "var" to create a new variable. 
+// we are modifying it rather than creating 100s of variables.
 var playerName = "Tom"
 print(playerName)
 
@@ -20,7 +21,9 @@ print(playerName)
 playerName = "john"
 print(playerName)
 
-
+// we are using 'let' which is an constant. The value will not change and Swift is not allowing us to
+// we will recieve a big error message telling us we cant change it. 
+// we should use constants more rather than using variables. 
 let managerName = "Emil Johansen"
 let catName = "Milo"
 let bestOS = "MacOS is the best OS"
