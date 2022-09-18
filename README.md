@@ -31,3 +31,4 @@ I’ve tried to make sure it takes less than one hour to complete each day, but 
 Day 0 - tips and advice before you start <br>
 Day 1 - variables, constants, strings, and numbers <br>
 Day 2 - Booleans, string interpolation, and checkpoint 1 <br>
+Day 3 – Arrays, dictionaries, sets, and enums <br>
